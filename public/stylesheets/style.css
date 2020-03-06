@@ -1,0 +1,14 @@
+body {
+    padding: 30px;
+    margin: 30px;
+    color: rgb(221, 154, 28);
+}
+
+h1 {
+    font-size: 100px;
+    color: aquamarine;
+}
+
+.show {
+    color: cadetblue;
+}
